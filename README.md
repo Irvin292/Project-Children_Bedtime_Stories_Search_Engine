@@ -9,8 +9,12 @@
 *This project requires Docker and pgAdmin
 
 ## **How To Open**
-- Download all files;
-- Open your Docker and pgAdmin;
-- Run code Spark-JSON.ipynb first. **It will convert the original data into jason file.
-- Then, run Postgre_query.ipynb. **It will automatically create a database in your pgAdmin and store the data into the database.
-- Finally, run main.ipynb. **Create a HTML Website enable to retrive and search stories from the database.
+1. Download all files, including folders.
+
+2. Open Docker and pgAdmin.
+
+3. Begin by executing the Spark-JSON.ipynb code; it will convert the original data into a JSON file.
+
+4. Next, run the Postgre_query.ipynb script, which will automatically establish a connection to your default PostgreSQL database, creating a new database and initiating queries.
+
+5. Lastly, execute the main.ipynb script to create an HTML website that enables you to retrieve and search stories from the database.
