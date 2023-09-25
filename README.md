@@ -17,4 +17,4 @@
 
 4. Next, run the Postgre_query.ipynb script, which will automatically establish a connection to your default PostgreSQL database, creating a new database and initiating queries.
 
-5. Lastly, execute the main.ipynb script to create an HTML website that enables you to retrieve and search stories from the database.
+5. Lastly, execute the app_copy.py and all HTML scripts (about, contact, index, result.html) to create an HTML website that enables you to retrieve and search stories from the database.
